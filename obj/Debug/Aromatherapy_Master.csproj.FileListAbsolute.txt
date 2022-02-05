@@ -1,0 +1,11 @@
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\bin\Debug\Aromatherapy_Master.exe
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\bin\Debug\Aromatherapy_Master.pdb
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\obj\Debug\Aromatherapy_Master.csproj.AssemblyReference.cache
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\obj\Debug\Aromatherapy_Master.frmLogin.resources
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\obj\Debug\Aromatherapy_Master.Properties.Resources.resources
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\obj\Debug\Aromatherapy_Master.csproj.GenerateResource.cache
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\obj\Debug\Aromatherapy_Master.csproj.CoreCompileInputs.cache
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\obj\Debug\Aromatherapy_Master.exe
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\obj\Debug\Aromatherapy_Master.pdb
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\obj\Debug\Aromatherapy_Master.frmMain.resources
+C:\Users\vbawa\source\repos\Aromatherapy_Master\Aromatherapy_Master\obj\Debug\Aromatherapy_Master.frmAdmin.resources
